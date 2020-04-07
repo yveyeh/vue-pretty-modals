@@ -3,7 +3,7 @@
 A reusable and scalable modal component for Vue built with TypeScript and Vue.js.
 
 
-#License
+# License
 
 The MIT License ([MIT](#)).
 Copyright &copy; 2020, [Yufenyuy Veyeh Didier](https://github.com/yveyeh).
